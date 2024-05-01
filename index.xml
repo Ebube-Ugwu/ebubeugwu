@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:1313/</link>
+    <link>https://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- 0.125.3</generator>
+    <generator>Hugo -- 0.125.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Apr 2024 02:08:38 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Falling for Linux</title>
-      <link>http://localhost:1313/tech/falling-for-linux/</link>
-      <pubDate>Tue, 23 Apr 2024 02:08:38 +0100</pubDate>
-      <guid>http://localhost:1313/tech/falling-for-linux/</guid>
-      <description></description>
-    </item>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
