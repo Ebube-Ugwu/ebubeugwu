@@ -1,3 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ebube Ugwu</title><link>https://ebubeugwu.vercel.app/</link><description>Recent content on Ebube Ugwu</description><generator>Hugo -- 0.128.2</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2024 11:22:17 +0100</lastBuildDate><atom:link href="https://ebubeugwu.vercel.app/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Blog</title><link>https://ebubeugwu.vercel.app/blog/my-first-blog/</link><pubDate>Mon, 29 Jul 2024 11:22:17 +0100</pubDate><guid>https://ebubeugwu.vercel.app/blog/my-first-blog/</guid><description>this is a random blog about something i love</description></item><item><title>Building My Website With Hugo</title><link>https://ebubeugwu.vercel.app/projects/building-my-website-with-hugo/</link><pubDate>Sun, 28 Jul 2024 16:58:17 +0100</pubDate><guid>https://ebubeugwu.vercel.app/projects/building-my-website-with-hugo/</guid><description>how i built my websit with hugo and papermod template</description></item><item><title>About me</title><link>https://ebubeugwu.vercel.app/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://ebubeugwu.vercel.app/about/</guid><description>Background I was born in Abuja, Nigeria. Studied at Nigerian Turkish International College (now Nigerian &amp;lsquo;Tulip&amp;rsquo; Int&amp;rsquo;l College). currently a final year pharmacy student at the University of Nigeria Nsukka.
-My Passion Learning is a strong passion of mine, I love learning new things, both in the tech world and in the health space, and using that knowledge to help people and solve real problems.
-Pharmacist Currently studying to get my B-pharm degree, I love the innovation in the pharmaceutical industry and aspire to contribute to the sector with my knowledge and skills with technology and programming.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ebube Ugwu</title>
+    <link>https://www.ebubeugwu.com/</link>
+    <description>Recent content on Ebube Ugwu</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Aug 2024 22:13:54 +0100</lastBuildDate>
+    <atom:link href="https://www.ebubeugwu.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I-Gave-Up-Today</title>
+      <link>https://www.ebubeugwu.com/blog/i-gave-up-today/</link>
+      <pubDate>Tue, 06 Aug 2024 22:13:54 +0100</pubDate>
+      <guid>https://www.ebubeugwu.com/blog/i-gave-up-today/</guid>
+      <description>When it&amp;#39;s okay to give up.</description>
+    </item>
+    <item>
+      <title>My First Blog</title>
+      <link>https://www.ebubeugwu.com/blog/my-first-blog/</link>
+      <pubDate>Mon, 29 Jul 2024 11:22:17 +0100</pubDate>
+      <guid>https://www.ebubeugwu.com/blog/my-first-blog/</guid>
+      <description>&lt;p&gt;this is a random blog about something i love&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building My Website With Hugo</title>
+      <link>https://www.ebubeugwu.com/projects/building-my-website-with-hugo/</link>
+      <pubDate>Sun, 28 Jul 2024 16:58:17 +0100</pubDate>
+      <guid>https://www.ebubeugwu.com/projects/building-my-website-with-hugo/</guid>
+      <description>how i built my websit with hugo and papermod template</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://www.ebubeugwu.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.ebubeugwu.com/about/</guid>
+      <description>&lt;img src=&#34;https://www.ebubeugwu.com/images/about-photo_hu_ed955872c41cd45c.jpeg&#34;
+	 alt=&#34;a casual picture&#34;&gt;
+
+
+&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;I was born in Abuja, Nigeria. Studied at Nigerian Turkish International College (now Nigerian &amp;lsquo;Tulip&amp;rsquo; Int&amp;rsquo;l College).
+currently a final year pharmacy student at the University of Nigeria Nsukka.&lt;/p&gt;
+&lt;h3 id=&#34;my-passion&#34;&gt;My Passion&lt;/h3&gt;
+&lt;p&gt;Learning is a strong passion of mine, I love learning new things, both in the tech world and in the health space, and using that knowledge to help people and solve real problems.&lt;/p&gt;
+&lt;h3 id=&#34;pharmacist&#34;&gt;Pharmacist&lt;/h3&gt;
+&lt;p&gt;Currently studying to get my B-pharm degree, I love the innovation in the pharmaceutical industry and aspire to contribute to the sector with my knowledge and skills with technology and programming.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

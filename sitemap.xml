@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://ebubeugwu.vercel.app/blog/</loc><lastmod>2024-07-29T11:22:17+01:00</lastmod></url><url><loc>https://ebubeugwu.vercel.app/tags/cakes/</loc><lastmod>2024-07-29T11:22:17+01:00</lastmod></url><url><loc>https://ebubeugwu.vercel.app/</loc><lastmod>2024-07-29T11:22:17+01:00</lastmod></url><url><loc>https://ebubeugwu.vercel.app/blog/my-first-blog/</loc><lastmod>2024-07-29T11:22:17+01:00</lastmod></url><url><loc>https://ebubeugwu.vercel.app/tags/passion/</loc><lastmod>2024-07-29T11:22:17+01:00</lastmod></url><url><loc>https://ebubeugwu.vercel.app/tags/</loc><lastmod>2024-07-29T11:22:17+01:00</lastmod></url><url><loc>https://ebubeugwu.vercel.app/projects/building-my-website-with-hugo/</loc><lastmod>2024-07-28T16:58:17+01:00</lastmod></url><url><loc>https://ebubeugwu.vercel.app/projects/</loc><lastmod>2024-07-28T15:59:12+01:00</lastmod></url><url><loc>https://ebubeugwu.vercel.app/about/</loc></url><url><loc>https://ebubeugwu.vercel.app/categories/</loc></url><url><loc>https://ebubeugwu.vercel.app/search/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.ebubeugwu.com/blog/</loc>
+    <lastmod>2024-08-06T22:13:54+01:00</lastmod>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/</loc>
+    <lastmod>2024-08-06T22:13:54+01:00</lastmod>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/blog/i-gave-up-today/</loc>
+    <lastmod>2024-08-06T22:13:54+01:00</lastmod>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/tags/cakes/</loc>
+    <lastmod>2024-07-29T11:22:17+01:00</lastmod>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/blog/my-first-blog/</loc>
+    <lastmod>2024-07-29T11:22:17+01:00</lastmod>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/tags/passion/</loc>
+    <lastmod>2024-07-29T11:22:17+01:00</lastmod>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/tags/</loc>
+    <lastmod>2024-07-29T11:22:17+01:00</lastmod>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/projects/building-my-website-with-hugo/</loc>
+    <lastmod>2024-07-28T16:58:17+01:00</lastmod>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/projects/</loc>
+    <lastmod>2024-07-28T15:59:12+01:00</lastmod>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/about/</loc>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/categories/</loc>
+  </url><url>
+    <loc>https://www.ebubeugwu.com/search/</loc>
+  </url>
+</urlset>

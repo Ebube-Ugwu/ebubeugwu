@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Passion on Ebube Ugwu</title><link>https://ebubeugwu.vercel.app/tags/passion/</link><description>Recent content in Passion on Ebube Ugwu</description><generator>Hugo -- 0.128.2</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2024 11:22:17 +0100</lastBuildDate><atom:link href="https://ebubeugwu.vercel.app/tags/passion/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Blog</title><link>https://ebubeugwu.vercel.app/blog/my-first-blog/</link><pubDate>Mon, 29 Jul 2024 11:22:17 +0100</pubDate><guid>https://ebubeugwu.vercel.app/blog/my-first-blog/</guid><description>this is a random blog about something i love</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Passion on Ebube Ugwu</title>
+    <link>https://www.ebubeugwu.com/tags/passion/</link>
+    <description>Recent content in Passion on Ebube Ugwu</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Jul 2024 11:22:17 +0100</lastBuildDate>
+    <atom:link href="https://www.ebubeugwu.com/tags/passion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>https://www.ebubeugwu.com/blog/my-first-blog/</link>
+      <pubDate>Mon, 29 Jul 2024 11:22:17 +0100</pubDate>
+      <guid>https://www.ebubeugwu.com/blog/my-first-blog/</guid>
+      <description>&lt;p&gt;this is a random blog about something i love&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
